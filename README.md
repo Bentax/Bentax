@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/andrei-kuzin-23048a1b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCuzl0SZUtA1MfCPhTS-a-KA">
+  <a href="https://www.youtube.com/channel/UC1pk2Drw81npTgr01ZHueaQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/ShopFatherBots">
