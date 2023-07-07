@@ -28,9 +28,9 @@
   I am a Blockchain Senior Project Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Georgia.
 - :telescope: I’m a certified Project Manager Professional (PMI).
 
-- :seedling: Exploring Blockchains.
+- :seedling: Exploring blockchain.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems with blockchain.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-kuzin-23048a1b6/)
 ---
