@@ -26,7 +26,7 @@
 
 ### :man_technologist: About Me :
   I am a Blockchain Senior Project Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Georgia.
-- :telescope: I’m a certified Project Manager Professional (PMI) https://prnt.sc/Kyj_JWo5NvNw [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://prnt.sc/Kyj_JWo5NvNw)
+- :telescope: I’m a certified Project Manager Professional (PMI) https://prnt.sc/Kyj_JWo5NvNw [![Ow](https://awesome.re/badge.svg)](https://prnt.sc/Kyj_JWo5NvNw)
 
 - :seedling: Exploring blockchain.
 
