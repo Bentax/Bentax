@@ -28,7 +28,7 @@
 
 [![Ow](https://awesome.re/badge.svg)](https://prnt.sc/Kyj_JWo5NvNw) I’m a certified Project Manager Professional (PMI)
 
-- :seedling: Exploring blockchain.
+- :seedling: Exploring blockchain. ![Endpoint Badge](https://img.shields.io/endpoint)
 
 - :zap: In my free time, I solve problems with blockchain.
 
