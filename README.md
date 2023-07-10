@@ -24,8 +24,10 @@
 
 ---
 
-### :man_technologist: About Me :
-  I am a Blockchain Senior Project Manager from Georgia.
+### :man_technologist: About Me
+
+##  I am a Blockchain Senior Project Manager from Georgia.
+
 [![Ow](https://awesome.re/badge.svg)](https://prnt.sc/Kyj_JWo5NvNw) I’m a certified Project Manager Professional (PMI)
 
 - :seedling: Exploring blockchain.
