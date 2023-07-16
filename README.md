@@ -31,7 +31,8 @@
 
 - :zap: In my free time, I solve problems with blockchain.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-kuzin-23048a1b6/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-kuzin-23048a1b6/) How to reach me?
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools
