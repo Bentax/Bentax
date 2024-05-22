@@ -27,10 +27,6 @@
 
 [![Ow](https://awesome.re/badge.svg)](https://prnt.sc/Kyj_JWo5NvNw) I’m a certified Project Manager Professional (PMI)
 
-[![Static Badge](https://img.shields.io/badge/Ether-js-blue)](https://jocular-pavlova-2f6fc6.netlify.app) Exploring blockchain.
-
-[![Ton](https://img.shields.io/badge/Web3-js-green)](https://tonscan.org/) In my free time, I solve problems with blockchain.
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-kuzin-23048a1b6/) How to reach me?
 
 ---
