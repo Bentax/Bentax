@@ -23,7 +23,7 @@
 
 ---
 
-### :man_technologist: About Me: I am a Senior Data Analyst from Georgia 🇬🇪
+### :man_technologist: About Me: I am a Senior Project Manager
 
 [![Ow](https://awesome.re/badge.svg)](https://prnt.sc/Kyj_JWo5NvNw) I’m a certified Project Manager Professional (PMI)
 
